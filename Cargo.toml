@@ -1,0 +1,14 @@
+[package]
+name = "spotifyrs-connect-demo"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+anyhow = "1.0.86"
+dotenvy = "0.15.7"
+serde = "1.0.209"
+serde-env = "0.2.0"
+spotify-rs = "0.3.14"
+tokio = { version = "1.40.0", features = ["full"] }
