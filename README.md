@@ -1,0 +1,1 @@
+This is a small repository that demonstrates how to use the librespot crate to interact with the Spotify API. The librespot crate is a Rust implementation of the Spotify Connect protocol. This repository demonstrates how to use the spotify-rs crate to authenticate with the Spotify API and fetch track information.
